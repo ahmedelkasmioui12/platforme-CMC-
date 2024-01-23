@@ -1,0 +1,33 @@
+body {
+    background-color: white;
+}
+.ul li{
+    color: red ;
+    
+}
+img{
+    border-radius: 20%;
+}
+h3 {
+background-color: orange;
+color: whitesmoke;
+}
+.notes{
+ background-color: rgba(245, 245, 245, 0.724);
+ border:2px solid whitesmoke  ;
+ width: 80%;
+ margin: 3% ;
+
+}
+.footer{
+left: 40%;    
+position: fixed;
+bottom: 0%;
+color: #ccc;
+
+}
+img{
+    width: 30%;
+    height: 200px;
+
+}
